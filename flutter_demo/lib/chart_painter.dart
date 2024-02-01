@@ -1,6 +1,5 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'Pointer.dart';
 import 'chart_calculator.dart';
 import 'chart_model.dart';
 

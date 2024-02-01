@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'Pointer.dart';
 import 'chart_model.dart';
 
 class ChartCalculator {
