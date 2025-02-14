@@ -280,7 +280,7 @@ class _KlineViewState extends State<KlineView> {
       onHorizontalDragEnd: _moveVelocity,
       onScaleUpdate: _onScaleUpdate,
       child: Container(
-          color: Colors.orange[100],
+          // color: Colors.orange[100],
           width: MediaQuery.of(context).size.width,
           height: 368.0,
           child: CustomPaint(
